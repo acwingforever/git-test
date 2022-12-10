@@ -14,7 +14,7 @@ public class GitTestApplication {
         System.out.println(false);
         System.out.println("push");
         System.out.println("push");
-        System.out.pringln("git-hub");
+        System.out.println("git-hub");
     }
 
 }
