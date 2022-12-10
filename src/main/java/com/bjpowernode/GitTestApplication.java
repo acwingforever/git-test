@@ -13,6 +13,7 @@ public class GitTestApplication {
         System.out.println("fajsdlfj");
         System.out.println(false);
         System.out.println("push");
+        System.out.println("push");
     }
 
 }
