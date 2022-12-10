@@ -12,6 +12,7 @@ public class GitTestApplication {
         System.out.println("master one");
         System.out.println("fajsdlfj");
         System.out.println(false);
+        System.out.println("push");
     }
 
 }
